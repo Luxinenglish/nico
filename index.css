@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff2') format('woff2'),
+    url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff2') format('woff2'),
+    url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Marianne', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nocta {
+    text-align: center;
+    padding: 1rem;
+}
+.nocta2 {
+    text-align: center;
+    color: #777777;
+    padding: 1rem;
+}@font-face {
+    font-family: 'Marianne';
+    src: url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff2') format('woff2'),
+    url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff2') format('woff2'),
+    url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Marianne', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nocta {
+    text-align: center;
+    padding: 1rem;
+}
+.nocta2 {
+    text-align: center;
+    color: #777777;
+    padding: 1rem;
+}
